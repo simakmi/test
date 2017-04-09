@@ -19,6 +19,7 @@ Use the table below to create HTTP job configuration.
 | Driver Script | Selenium script. *  |
 | Driver Timeout, seconds |  Defines the amount of time the Driver will wait to complete the request before it returns the timeout exception message.*  |
 | Driver File Encoding |  Encoding of the file you are requesting with the script. * |
+
 _*These fields become available if you select the Enable Web Driver check box._
 
 ### <code>http.status</code> Metric Values Based on HTTP Response Codes:
